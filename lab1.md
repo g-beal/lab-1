@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Georgia Beal</title>
+</head>
+<body>
+  <p>&amp; Hello world. This is my first website!</p>
+  <p> Hi! I am a junior at Jones College Prep this year, and I am excited to learn about web development! </p>
+  <p> I have never used HTML before, but I have used Java and a little bit of Python. </p>
+  <p>Instructions: rewrite this page by adding a few sentences about yourself. Add a heading. Post it to your basecamp</p>
+</body>
+</html>
